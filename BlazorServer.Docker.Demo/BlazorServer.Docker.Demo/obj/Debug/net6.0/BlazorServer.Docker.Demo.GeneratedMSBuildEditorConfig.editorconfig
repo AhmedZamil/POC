@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorServer.Docker.Demo
+build_property.RootNamespace = BlazorServer.Docker.Demo
+build_property.ProjectDir = E:\MILBIX\SourceCode\BlazorServer.Docker.Demo\BlazorServer.Docker.Demo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\MILBIX\SourceCode\BlazorServer.Docker.Demo\BlazorServer.Docker.Demo
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Pages/AddEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Pages/EditEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEVtcGxveWVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Pages/EmployeeOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Shared/EmployeeForm.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcGxveWVlRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-kyneb02y5u
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-opzc7166ty
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MILBIX/SourceCode/BlazorServer.Docker.Demo/BlazorServer.Docker.Demo/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
